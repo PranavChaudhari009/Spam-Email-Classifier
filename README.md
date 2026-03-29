@@ -1,6 +1,6 @@
 # Spam Email Classifier
 
-This project is a **Machine Learning application** designed to classify emails as either **Spam** or **Ham (not spam)**.  
+This project is a **Machine Learning application** designed to classify emails as either **Spam** or **Ham (not spam)* *.  
 It uses the **Multinomial Naive Bayes algorithm** and **TF-IDF Vectorization** to achieve high classification performance.
 
 ---
@@ -37,5 +37,5 @@ The model was evaluated on a **test set (20% of the dataset)**.
 
 ## Libraries Used
 
-- **Pandas** – Data manipulation and analysis  
+- **Pandas** –  Data manipulation and analysis  
 - **Scikit-learn** – Machine learning, vectorization, and model evaluation
